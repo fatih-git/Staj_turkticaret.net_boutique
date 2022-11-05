@@ -1,0 +1,29 @@
+.ftr{
+    
+    background-color: black;
+
+}
+
+.ftrContainer{
+    
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.ftrtxt{
+    color: white;
+    text-align: center;
+}
+
+.footer-item{
+
+    color: white;
+    transition: 00.5s;
+
+}
+
+.footer-item:hover{
+    color: blue;
+}
