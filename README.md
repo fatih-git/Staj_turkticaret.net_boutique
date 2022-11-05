@@ -1,2 +1,3 @@
-# Bu bir arayüz tasarımıdır, frontedn çalışmasıdır.
+# README
+Bu bir arayüz tasarımıdır, fronte çalışmasıdır.
 HTML, CSS(Bootstarp), JavaScript(Jquery) kullanılmıştır.
